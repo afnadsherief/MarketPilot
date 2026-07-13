@@ -1,24 +1,27 @@
 # Project Status
 
 ## Current Phase
-Implementation planning and initial platform scaffolding.
+Implementation in progress.
 
 ## Active Focus
-- Platform Kernel foundation
-- Milestone 1 implementation
+- Milestone 1: Platform Kernel foundation
+- Increment 2: Lifecycle and module infrastructure
 - Architectural compliance
-- RepositoryPilot planning
+- Repository synchronization
+- RepositoryPilot preparation
 
 ## Current Status
 - Constitution: approved
 - Platform Blueprint: approved
 - Platform Kernel: approved
 - ADR-01 to ADR-15: approved
+- Milestone 1 Increment 1: approved
+- Milestone 1 Increment 2: approved by implementation review
 - Knowledge pack: being finalized
-- Repository docs: being initialized
+- Repository docs: expanding canonically
 
 ## Next Milestones
-1. Platform Kernel foundation
+1. Platform Kernel foundation complete
 2. Lifecycle manager and module discovery
 3. Deterministic core and UDO
 4. First domain plugin and outcome evaluation
