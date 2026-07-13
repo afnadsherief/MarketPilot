@@ -3,7 +3,7 @@
 MarketPilot is an AI-native Decision Intelligence Platform. Trading is the inaugural domain, not the platform itself.
 
 ## Canonical Repository
-This repository is the authoritative source for MarketPilot documentation, governance, roadmaps, ADRs, and implementation summaries.
+This repository is the authoritative source for MarketPilot documentation, governance, roadmaps, ADRs, implementation summaries, and repository health tracking.
 
 ## Current Focus
 - Milestone 1: Platform Kernel foundation
