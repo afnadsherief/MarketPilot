@@ -8,12 +8,14 @@ Milestone 1 — Platform Kernel foundation
 - Kernel interfaces
 - Capability Registry
 - Event Bus
-- Tests
+- Lifecycle and module infrastructure
+- Increment 2 readiness
 
 ## Completed
 - Constitution and architecture approved
 - Repository scaffolding begun
 - Governance layer initialized
+- Increment 1 implementation synchronized
 
 ## Upcoming
 - Lifecycle Manager
