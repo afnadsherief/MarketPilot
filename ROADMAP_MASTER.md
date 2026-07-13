@@ -7,6 +7,7 @@
 - Configuration
 - Logging
 - Module lifecycle scaffolding
+- Lifecycle & module infrastructure
 
 ## Phase 2 — Deterministic Core
 - Tick system
